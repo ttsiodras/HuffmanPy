@@ -1,0 +1,7 @@
+.mypy_cache
+.venv
+**/__pycache__
+.analysed
+.setup
+.coverage
+.pytest_cache
